@@ -16,4 +16,4 @@
 
    ---
 
-   Autor do resumo: GeffersOn Gabryel - 01514876
+   Autor do resumo: Gefferson Gabryel - 01514876
